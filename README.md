@@ -1,4 +1,6 @@
 # Code Refactor Starter Code
 Challenge 1
+Horiseon website with much more accessibility
 
-added more accessibility to code
+Learn about Search engine optimization ,Online reputation management, and  Social media marketing!
+
