@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header style*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*content style start*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,9 +76,9 @@ p {
     margin-left: 20px;
     
 }
-
+/*text inside boxes*/
 .content p {
-    font-size: 30px;
+    font-size: 31px;
     
    
 }
@@ -142,7 +142,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*example imgs style*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
