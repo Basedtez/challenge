@@ -39,6 +39,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    
 }
 
 a {
@@ -73,7 +74,15 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    
 }
+
+.content p {
+    font-size: 30px;
+    
+   
+}
+
 
 .benefits {
     margin-right: 20px;
